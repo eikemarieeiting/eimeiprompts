@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Eike-Marie's Prompting Handbook
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -273,6 +273,15 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+      ref: main
+    enabled: true
+    order: 50
+    options:
+      theme: buena-vista
 layout:
   groups:
     toolbar:
