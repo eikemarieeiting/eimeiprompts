@@ -2,7 +2,7 @@
 publish: true
 title: Prompting Handbook
 created: 2026-08-14T08:01:16.000+02:00
-modified: 2026-08-14T15:38:11.163+02:00
+modified: 2026-08-14T15:53:16.345+02:00
 tags:
   - moc
 ---
@@ -13,11 +13,11 @@ This is a Prompting Library built by me, Eike-Marie. I am based in Hamburg, Germ
 
 ### How to use this
 
-Each \[Concepts] note is short and self-contained — read the one you need, skip the rest.
+Each [[Concepts]] note is short and self-contained — read the one you need, skip the rest.
 
-\[Patterns] does two things: It gives a different entry point (what's your situation) and it also lists copy-paste starting points for existing projects or examples that worked well for me and can be reused - perhaps for you, too?!
+[[Patterns]] does two things: It gives a different entry point (what's your situation) and it also lists copy-paste starting points for existing projects or examples that worked well for me and can be reused - perhaps for you, too?!
 
-\[Exercises] show my learning process, and they are great if you want to see different prompt-types in action and their results as a starting point. We all start with little or nothing and grow from there.
+[[Exercises]] show my learning process, and they are great if you want to see different prompt-types in action and their results as a starting point. We all start with little or nothing and grow from there.
 
 ---
 
