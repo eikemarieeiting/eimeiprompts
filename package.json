@@ -1,4 +1,9 @@
 {
+"allowScripts":{
+  "esbuild": true,
+  "sharp": true,
+  "@partcel/watcher": true
+},
   "name": "@jackyzha0/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
