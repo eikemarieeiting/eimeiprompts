@@ -2,14 +2,14 @@
 publish: true
 title: Prompting Handbook
 created: 2026-08-14T08:01:16.000+02:00
-modified: 2026-08-14T15:53:16.345+02:00
+modified: 2026-08-17T14:56:01.470+02:00
 tags:
   - moc
 ---
 
 # Prompting Handbook
 
-This is a Prompting Library built by me, Eike-Marie. I am based in Hamburg, Germany, and this is what I normally do.
+This is a Prompting Library built by me, Eike-Marie. I am based in Hamburg, Germany, and [this is what I normally do. ](https://www.eike-marie.de)
 
 ### How to use this
 
