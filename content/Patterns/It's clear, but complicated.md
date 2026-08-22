@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-14T12:43:47.693+02:00
-modified: 2026-08-17T12:09:45.694+02:00
+modified: 2026-08-17T13:34:09.779+02:00
 tags:
   - concept
 ---
@@ -18,9 +18,17 @@ When it's clear, and complex, this is great, because we can be more specific tha
 **Example**
 
 ```
-Wir haben 3 Produkt-Ideen: Idee 1 Idee 2 Idee 3 Bewerte jede nach:
+# CONTEXT
+Wir haben 3 Produkt-Ideen: Idee 1 Idee 2 Idee 3 
 
-Problemrelevanz, Umsetzbarkeit in 1 Tag, KI-Mehrwert [INSTRUCTIONS & CONSTRAINTS]. Empfiehl eine und begründe es in 3 Sätzen [CHAIN-OF-THOUGHT].
+# TASK
+Bewerte jede nach:
+
+# INSTRUCTION
+Problemrelevanz, Umsetzbarkeit in 1 Tag, KI-Mehrwert
+
+# CHAIN-OF-THOUGHT
+Empfiehl eine und begründe es in 3 Sätzen.
 
 ---
 
